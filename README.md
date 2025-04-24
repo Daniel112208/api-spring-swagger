@@ -16,7 +16,7 @@ Forma parte del curso "Desarrollo de Aplicaciones Empresariales con Spring Boot 
 
 📦 Estructura del Proyecto
 - com.systempaymentsut.proyecto_fullstack_backend_ut
-  - model – Entidades como Estudiante, etc.
+  - model – Entidades como estudiante y pago
   - repository – Interfaces JPA para acceso a datos
   - service – Lógica de negocio
   - controller – Endpoints REST
