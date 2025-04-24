@@ -41,6 +41,7 @@ Integración Frontend ↔ Backend
 - Autenticación y autorización (opcional)
   
 📚 Créditos y Licencia
+
 Proyecto académico desarrollado en la Universidad del Tolima.
 Licencia: MIT – libre para usar y modificar con fines educativos.
 
