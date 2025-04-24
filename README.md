@@ -45,4 +45,4 @@ Integración Frontend ↔ Backend
 Proyecto académico desarrollado en la Universidad del Tolima.
 Licencia: MIT – libre para usar y modificar con fines educativos.
 
-Desarrollado como parte del curso "Desarrollo de Aplicaciones Empresariales con Spring Boot y Angular" dado por Dev Senior y realizado por por Daniel Camilo Campos Palacino
+Desarrollado como parte del curso "Desarrollo de Aplicaciones Empresariales con Spring Boot y Angular" dado por Dev Senior y realizado por Daniel Camilo Campos Palacino
