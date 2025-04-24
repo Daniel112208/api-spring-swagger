@@ -28,6 +28,7 @@ Forma parte del curso "Desarrollo de Aplicaciones Empresariales con Spring Boot 
 - Generación automática de IDs con UUID
 - Swagger UI para pruebas e interacción con la API
 - Pruebas de endpoints disponibles con Spring Boot Test
+  
 🧩 Próximas Fases del Proyecto
 Desarrollo del Frontend (con Angular)
 - Diseño de la interfaz de usuario
